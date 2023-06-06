@@ -59,7 +59,30 @@ header {
 .portfolio h2 {
     padding-top: 50px;
 }
-.portfolio p {
+.portfolio .card p {
 
     font-style: italic;
+}
+
+/*footer*/
+
+.footer {
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.icons {
+    padding-right: 300px;
+}
+
+.icon-f {
+    font-size: 20px;
+    background: black;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: #ffff;
+    border-radius: 50%;
+    margin: 0 5 0 5;
 }
