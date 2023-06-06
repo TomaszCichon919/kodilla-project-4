@@ -1,10 +1,41 @@
+/*Title section*/
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&family=Permanent+Marker&family=Roboto+Mono&family=Signika+Negative:wght@700&display=swap");
 header {
-  height: 100vh;
+  height: 60vh;
   position: relative;
   background-image: url("https://cdn.pixabay.com/photo/2016/01/09/18/27/journey-1130732_1280.jpg");
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
+}
+
+.title {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+
+.top {
+  align-items: center;
+  text-align: center;
+}
+
+.title h1 {
+  font-family: "Roboto Mono", sans-serif;
+  margin-bottom: 30px;
+}
+
+.btn {
+  font-size: 16px;
+}
+
+/*services*/
+.container {
+  margin: auto;
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
