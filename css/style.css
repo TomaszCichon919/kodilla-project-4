@@ -38,4 +38,18 @@ header {
   text-align: center;
 }
 
+.section-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.card {
+  border: none;
+}
+
+.icon {
+  font-size: 36px;
+  color: #f0ad4e;
+}
+
 /*# sourceMappingURL=style.css.map */
