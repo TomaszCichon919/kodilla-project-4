@@ -1,0 +1,10 @@
+header {
+  height: 100vh;
+  position: relative;
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/09/18/27/journey-1130732_1280.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*# sourceMappingURL=style.css.map */
