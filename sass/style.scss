@@ -40,7 +40,7 @@ header {
 
 .section-title {
     margin-top: 30px;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 .card {
     border: none;
@@ -48,4 +48,18 @@ header {
 .icon {
     font-size: 36px;
     color: #f0ad4e;
+}
+
+/*portfolio*/
+
+.portfolio {
+    background-color: #EEEEEE;
+}
+
+.portfolio h2 {
+    padding-top: 50px;
+}
+.portfolio p {
+
+    font-style: italic;
 }
